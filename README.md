@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./assets/mynameis.png">
+    <img src="https://raw.githubusercontent.com/igotinfected/igotinfected/master/assets/mynameis.png">
     <br /><br />
     <samp>    
         Hi! I'm <strong>igotinfected</strong> (or Jason).<br />
