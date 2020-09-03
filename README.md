@@ -4,8 +4,8 @@
     <samp>    
         Hi! I'm <strong>igotinfected</strong> (or Jason).<br />
         Recently completed bachelor's degree in <strong>Applied Information Technology.</strong><br />
-        Aspiring game dev with some experience in C#, MonoGame & Unity.<br />
         Interested in backend development with some experience in Python 3 & FastAPI. :rocket:
+        Hobbyist game dev with some experience in C#, MonoGame & Unity.<br />
     </samp>
 </p>
 
