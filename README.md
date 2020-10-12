@@ -12,7 +12,7 @@
 ## Interests
 
 - :video_game: Video game development: [Crawl IT](https://github.com/igotinfected/crawl-it)
-- :unlock: Hacking CTF's: [CTF Time](https://ctftime.org/team/124180)
+- :unlock: Hacking CTF's: [CTF Time](https://ctftime.org/team/133757)
 
 ## Socials
 
