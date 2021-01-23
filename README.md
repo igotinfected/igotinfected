@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="assets/greeting.gif" style="border-radius: 15px; -webkit-box-shadow: 3px 3px 5px 6px #282936; -moz-box-shadow: 3px 3px 5px 6px #282936; box-shadow: 3px 3px 5px 6px #282936;">
+    <img src="https://raw.githubusercontent.com/igotinfected/igotinfected/master/assets/greeting.gif" height=auto style="border-radius: 15%; -webkit-box-shadow: 3px 3px 5px 6px #282936; -moz-box-shadow: 3px 3px 5px 6px #282936; box-shadow: 3px 3px 5px 6px #282936;">
     <br /><br />
     <samp>    
         Hi! I'm <strong>igotinfected</strong> (or Jason).<br />
