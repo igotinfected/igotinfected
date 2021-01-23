@@ -1,16 +1,6 @@
-<style>
-    .greeting
-    {
-        border-radius: 15%;
-        -webkit-box-shadow: 3px 3px 5px 6px #282936;
-        -moz-box-shadow: 3px 3px 5px 6px #282936; 
-        box-shadow: 3px 3px 5px 6px #282936;
-        height: auto;
-    }
-</style> 
-
 <p align="center">
-    <img class="greeting" src="https://raw.githubusercontent.com/igotinfected/igotinfected/master/assets/greeting.gif" style="">
+    <a href="https://github.com/igotinfected"><img class="greeting" src="https://raw.githubusercontent.com/igotinfected/igotinfected/master/assets/greeting.gif" style="border-radius: 10%; -webkit-box-shadow: 3px 3px 5px 6px #282936; -moz-box-shadow: 3px 3px 5px 6px #282936; box-shadow: 3px 3px 5px 6px #282936; height: auto;">
+    </a>
     <br /><br />
     <samp>
         Hi! I'm <strong>igotinfected</strong> (or Jason).<br />
