@@ -1,7 +1,6 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=igotinfected&width=800&height=400)](https://github.com/igotinfected)
-
 <p align="center">
-    <br />
+    <img src="https://raw.githubusercontent.com/igotinfected/igotinfected/master/assets/greeting.gif">
+    <br /><br />
     <samp>
         Hi! I'm <strong>igotinfected</strong> (or Jason).<br />
         Recently completed bachelor's degree in <strong>Applied Information Technology.</strong><br />
