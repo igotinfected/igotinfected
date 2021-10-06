@@ -1,6 +1,4 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/igotinfected/igotinfected/master/assets/greeting.gif">
-    <br /><br />
     <samp>
         Hi! I'm <strong>igotinfected</strong> (or Jason).<br />
         Recently completed bachelor's degree in <strong>Applied Information Technology.</strong><br />
@@ -12,7 +10,7 @@
 ## Interests
 
 - :video_game: Video game development: [Crawl IT](https://github.com/igotinfected/crawl-it)
-- :unlock: Hacking CTF's: [CTF Time](https://ctftime.org/team/133757)
+- :unlock: Cybersecurity CTF's: [CTF Time](https://ctftime.org/team/133757)
 
 ## Socials
 
