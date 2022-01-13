@@ -1,16 +1,15 @@
 <p align="center">
     <samp>
-        Hi! I'm <strong>igotinfected</strong> (or Jason).<br />
-        Recently completed bachelor's degree in <strong>Applied Information Technology.</strong><br />
-        Interested in backend development with some experience in Python 3 & FastAPI. :rocket:<br />
-        Hobbyist game dev with some experience in C#, MonoGame & Unity.
+        Hi! I'm <strong>igotinfected</strong> (or Jason) 👋<br />
+        <strong>Web & Mobile</strong> Analyst Developer by day 🚀<br />
+        <strong>Backend</strong> dev, <strong>cybersec</strong> aficionado, and hobbyist <strong>game dev</strong> by night 🕵️‍♂️<br />
     </samp>
 </p>
 
-## Interests
+## Highlights
 
-- :video_game: Video game development: [Crawl IT](https://github.com/igotinfected/crawl-it)
-- :unlock: Cybersecurity CTF's: [CTF Time](https://ctftime.org/team/133757)
+- :video_game: video game development: [Crawl IT](https://github.com/igotinfected/crawl-it)
+- :unlock: cybersecurity CTF's: [CTF Time](https://ctftime.org/team/133757)
 
 ## Socials
 
