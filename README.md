@@ -28,8 +28,3 @@
         <img src="https://img.shields.io/badge/twitter-igotinfected-blue?logo=twitter&style=for-the-badge" alt="twitter-badge" />
     </a>
 </p>
-<p align="center">
-    <a href="https://instagram.com/devfected">
-        <img src="https://img.shields.io/badge/instagram-devfected-blue?logo=instagram&style=for-the-badge" alt="instagram-badge" />
-    </a>
-</p>
